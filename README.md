@@ -56,7 +56,11 @@ This repository contains the following files. You should clone this repository t
 └── index.html
 ```
 
-We recommend that you start with the `examples.html` file. You can simply open this file in a browser and see a few examples we have created to get you started. Open the Console to see some very helpful messages. Note that it is possible that you this page does not load JS for you because of security issues. You can simply start a HTTP server and avoid this issue.
+We recommend that you start with the `examples.html` file. You can simply open this file in a browser and see a few examples we have created to get you started. 
+
+![Examples Page Screen Shot](screenshot.png)
+
+Open the Console to see some very helpful messages. Note that it is possible that you this page does not load JS for you because of security issues. You can simply start a HTTP server and avoid this issue.
 
 ```bash
 # In a shell like bash
