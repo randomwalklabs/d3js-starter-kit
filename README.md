@@ -20,6 +20,14 @@ D3.js is a JavaScript library. In fact, it's simply one file of JavaScript code 
 D3.js is not the only JS library that does data visualization. Checkout 
 [sigmajs](http://sigmajs.org/) for an amazing way to draw graphs.
 
+## Prerequisites
+
+1. Learn to use Console under [Developer Tools](https://developers.google.com/web/tools/chrome-devtools/?hl=en).
+2. Setup a [codepen.io](codepen.io) account and learn to use it. Taking the initial tour when you sign up is recommended.
+3. Look through the resources listed below.
+4. Clone this repository and look at examples. See the starter kit section below. Make sure you can fully load the `example.html` page in a web browser. 
+5. Try out some JS coding in `custom.js` file and see the changes in `index.html`.
+
 
 #### Awesome Resources
 
